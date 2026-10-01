@@ -1,3 +1,4 @@
+> [English](./README.md) | 简体中文
 # Agnes AI Skills
 
 OpenAI-compatible Python skills for **Agnes AI** multimodal models — image generation and video generation.
